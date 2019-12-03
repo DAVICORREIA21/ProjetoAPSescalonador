@@ -1,3 +1,3 @@
-# ProjetoAPSescalonador
-
-Projeto da disciplina de analise e projetos de sistema voltado a Test-driven development
+# schedulerAPS
+##### This a repository to the APS discipline at UFPB, Campus IV - Rio Tinto.
+##### This is a system with 16 tests to be approved.
